@@ -1,0 +1,30 @@
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+  opacity: 0.5;
+  font-size: 40px;
+  text-decoration: underline;
+}
+
+body {
+  background-image: url("http://darlyne1980.d.a.pic.centerblog.net/o/01b18fd6.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.titre {
+  margin-left: 35%;
+  font-family: fantasy;
+  display: block;
+}
+
+.etoiles {
+  width: 200px;
+  height: 200px;
+  margin-left: 30%;
+}
+
+.et {
+  color: aliceblue;
+}
